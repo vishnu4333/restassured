@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T05:20:21Z" name="Default suite" finished-at="2022-12-08T05:20:32Z" duration-ms="10589">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T05:20:21Z" name="Default test" finished-at="2022-12-08T05:20:32Z" duration-ms="10589">
+      <class name="restassuredtesting.trello">
+        <test-method signature="createBoard()[pri:0, instance:restassuredtesting.trello@258d79be]" started-at="2022-12-08T10:50:21Z" name="createBoard" finished-at="2022-12-08T10:50:30Z" duration-ms="9157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoard -->
+        <test-method signature="getaboard()[pri:0, instance:restassuredtesting.trello@258d79be]" started-at="2022-12-08T10:50:30Z" name="getaboard" finished-at="2022-12-08T10:50:32Z" duration-ms="1396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaboard -->
+      </class> <!-- restassuredtesting.trello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
